@@ -1,0 +1,8 @@
+[History]
+1=#P0#=mb	#P1#=HandleWithMail	#P2#=Project1/frmStart/HandleWithMail	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230106204124	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=SetChart	#P2#=Project1/frmStart/SetChart	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230106190650	#P7#=0	#P8#=5	.
+3=#P0#=mb	#P1#=cmdStart_Click	#P2#=Project1/frmStart/cmdStart_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230106205217	#P7#=0	#P8#=205	.
+4=#P0#=mb	#P1#=TempErr	#P2#=Project1/frmStart/TempErr	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230106185046	#P7#=0	#P8#=3	.
+5=#P0#=mb	#P1#=Q	#P2#=Project1/Utility/Q	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230104212246	#P7#=0	#P8#=2	.
+6=#P0#=mb	#P1#=PDBDataBase	#P2#=Project1/Utility/PDBDataBase	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230104211012	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=LogMsg	#P2#=Project1/Utility/LogMsg	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230104211002	#P7#=0	#P8#=26	.
